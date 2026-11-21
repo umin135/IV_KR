@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
     <a>
-  <img src="assets/logo.png" alt="Leonida" width="200">
+  <img src="assets/title.png" alt="Title" width="200">
 </a>
   Grand Theft Auto IV: The Complete Edition
   <br>
