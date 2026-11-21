@@ -30,13 +30,32 @@
 2. 
 
 ## 크레딧
-### 기존 Grand Theft Auto IV 한국어 패치
+### [기존 Grand Theft Auto IV 한국어 패치](https://kjhmn.tistory.com/931)
 > 촌닭투 :
 >
 > 이 GTA4 한글 패치는 베타겜에서 만난 분들과 수개월을 작업한 끝에 완성되었습니다.
 > 참여해 주신 모든 분들께 다시 한 번 감사드립니다.
 > 
 > 김성원, 남원석, 메이츠키, 박인호, 박종호, 배환, 서형욱, 신현빈, 신현우, 안상은, 이승규, 장선우, 정인수, 주가드, 최광성, 하루, 하얀간장, 하창우, HR, IL JU KIM, Jason_, KOSMOS, Kwon Yoo
+
+### [기존 The Balled of Gay Tony 한국어 패치](https://arie.tistory.com/entry/GTA-4-The-Balled-of-Gay-Tony-%ED%95%9C%EA%B8%80%ED%8C%A8%EC%B9%98-v10)
+> 주관: 레갈마인드
+> 
+> 번역 : 탄스69, 푸우사마, 레스터(이홍기), 돞돞, 루아, 레갈마인드, 레베라스, 다스루저, 레글라스, 게이로드
+> 
+> 검수 : 스카라, 바버, 허스드, 그저웃지요, 래커, 코코넛들
+> 
+> 번역 감수 : 레스터
+> 
+> 기술 : 쩌새
+>
+
+### [기존 The Lost and Damned 한국어 패치](https://web.archive.org/web/20131113142751/https://steambox.tistory.com/35)
+> 번역: 다스 루저 님, 김철영 님, CBmassmatic 님, 이홍기 님, 류윤식 님, S.A.S 님, 윤장원 님
+> 
+> 패치 제작: 촌닭투 님
+> 
+> 패치 테스트: Kazanell 님, Alptraum 님, winay 님
 
 - [rpf9-explorer](https://github.com/breadbbbb/rpf9-explorer) by breadbbbb: the RPF9 model, texture-pool and AWC
   decoders used by `tools/rpf9dump` (git submodule).
