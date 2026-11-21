@@ -1,5 +1,8 @@
 <h1 align="center">
   <br>
+    <a>
+  <img src="assets/title.png" alt="Title" width="200">
+</a>
   Grand Theft Auto IV: The Complete Edition
   <br>
   <b>비공식 한국어 패치</b>
