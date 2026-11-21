@@ -28,11 +28,13 @@
 <br>`(FusionFix의 실제 파일은 Installer와 본 저장소에 포함되어있지 않으며, Installer는 FusionFix 공식 릴리즈에서 직접 내려받아 설치됩니다.)`
 
 ## 패치 설치 방법
-1. [Release](https://github.com/umin135/IV_KR/releases)에서 Installer를 받아서 실행합니다.
-<img src="assets/pic_01.png" alt="Title" width="1024">
-2. 게임 경로는 Steam 혹은 Rockstar 런처에 설치되어계신 게임을 자동으로 감지합니다. `자동감지`를 눌러 다시 탐색하거나 `찾기`를 눌러 `GTAIV`폴더를 직접 설정하실 수 있습니다.
-3. Fusion Fix 설치 여부는 체크박스로 선택하실 수 있는데, 포함하시길 권장드립니다. 원본 게임을 최대한 해치지 않으면서 수많은 버그픽스와 비주얼 개선이 이루어집니다.
-4. 마지막으로 `설치` 버튼을 누르면 자동으로 설치가 진행됩니다. 설치가 완료된 후엔 Installer를 종료하고 평소처럼 플레이하시면 됩니다.
+<img src="assets/pic_01.png" alt="Tutorial_01" width="720">
+1. [Release](https://github.com/umin135/IV_KR/releases)에서 Installer를 받아서 실행합니다.<br>
+2. 게임 경로는 Steam 혹은 Rockstar 런처에 설치되어계신 게임을 자동으로 감지합니다. `자동감지`를 눌러 다시 탐색하거나 `찾기`를 눌러 `GTAIV`폴더를 직접 설정하실 수 있습니다.<br>
+3. Fusion Fix 설치 여부는 체크박스로 선택하실 수 있는데, 포함하시길 권장드립니다. 원본 게임을 최대한 해치지 않으면서 수많은 버그픽스와 비주얼 개선이 이루어집니다.<br>
+4. 마지막으로 `설치` 버튼을 누르면 자동으로 설치가 진행됩니다. 설치가 완료된 후엔 Installer를 종료하고 평소처럼 플레이하시면 됩니다.<br>
+5. 혹여나 Steam 속성과 같은 곳에서 게임 언어를 따로 설정하셨다면 `영어`로 되돌려 놓으세요. 기존 패치들과는 다르게 영문 상태에서 작동합니다.
+<img src="assets/pic_02.png" alt="Tutorial_02" width="720">
 
 ## 크레딧
 ### 기존 Grand Theft Auto IV [한국어 패치](https://kjhmn.tistory.com/931)
