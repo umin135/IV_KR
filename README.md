@@ -36,6 +36,8 @@
 5. 혹여나 Steam 속성과 같은 곳에서 게임 언어를 따로 설정하셨다면 `영어`로 되돌려 놓으세요. 기존 패치들과는 다르게 영문 상태에서 작동합니다.
 <img src="assets/pic_02.png" alt="Tutorial_02" width="720">
 
+> **직접 덮어씌우시길 원하신다면** 덮어씌우는 방식 또한 배포되고 있으니 [Release](https://github.com/umin135/IV_KR/releases)에서 확인 후 설치하세요.
+
 ## 크레딧
 ### 기존 Grand Theft Auto IV [한국어 패치](https://kjhmn.tistory.com/931)
 > 촌닭투 :
